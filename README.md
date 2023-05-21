@@ -1,3 +1,4 @@
 # EarthXChange
 
-https://sainik-khaddar.github.io/EarthXChange/
+MADE BY :-
+TECH TEAM IEEE-JUSB
