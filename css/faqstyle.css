@@ -50,7 +50,7 @@
   display: inline-block;
   position: absolute;
   top: 18px;
-  right: 0;
+  right: -20px;
   width: 22px;
   height: 22px;
   border: 1px solid;
@@ -86,7 +86,7 @@
 }
 .accordion button[aria-expanded='true'] + .accordion-content {
   opacity: 1;
-  max-height: 9em;
+  max-height: 12.5em;
   transition: all 200ms linear;
   will-change: opacity, max-height;
 }
